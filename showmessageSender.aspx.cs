@@ -31,5 +31,37 @@ namespace portfolio
                 Response.Write(ex.Message);
             }
         }
+
+        protected void MessageGridView_RowCommand(object sender, GridViewCommandEventArgs e)
+        {
+            if (e.CommandName == "del")
+            {
+                // Response.Write("<script>alert('delete id: "+e.CommandArgument+"')</script>");
+                try
+                {
+                   
+                    SqlConnection con = new SqlConnection(strcon);
+                    con.Open();
+
+
+                    SqlCommand cmd = new SqlCommand("DELETE FROM message WHERE name=@name", con);
+
+
+                    cmd.Parameters.AddWithValue("@name",e.CommandArgument);
+
+                    cmd.ExecuteNonQuery();
+
+                    
+                    con.Close();
+                    Response.Redirect("~/showmessageSender.aspx");
+                    
+                }
+                catch (Exception ex)
+                {
+                    
+                    Response.Write("<script>alert('Delete hoilo na: " + ex.Message + "');</script>");
+                }
+            }
+        }
     }
 }
