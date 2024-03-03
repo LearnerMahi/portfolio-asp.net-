@@ -10,7 +10,8 @@
     <form id="form1" runat="server">
         <div>
             <h1 align="center">CRUD Page</h1>
-             <asp:Button  ID="showMessage" runat="server" Text="showWhoMessagesYou" OnClick="showMessage_Click"  />
+             <asp:Button  ID="showMessage" runat="server" Text="MESSAGER INFO" OnClick="showMessage_Click"  />
+            <asp:Button  ID="Logout" runat="server" Text="LOG OUT" OnClick="Logout_Click"   />
         </div>
     </form>
 </body>

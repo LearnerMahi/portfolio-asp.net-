@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "F:\\practice_ASP_NET\\portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\showmessagesender.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:showmessagesender.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\showmessagesender.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:showmessagesender.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|f:\\practice_asp_net\\portfolio\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\modify.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:modify.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\modify.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:modify.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\modify.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:modify.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\showmessagesender.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:showmessagesender.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|f:\\practice_asp_net\\portfolio\\showmessagesender.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:showmessagesender.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|F:\\practice_ASP_NET\\portfolio\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC32721-5745-4119-A860-5F1B38620285}|portfolio.csproj|solutionrelative:index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "index.aspx.cs",
               "DocumentMoniker": "F:\\practice_ASP_NET\\portfolio\\index.aspx.cs",
               "RelativeDocumentMoniker": "index.aspx.cs",
@@ -59,33 +59,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "modify.aspx.cs",
               "DocumentMoniker": "F:\\practice_ASP_NET\\portfolio\\modify.aspx.cs",
               "RelativeDocumentMoniker": "modify.aspx.cs",
               "ToolTip": "F:\\practice_ASP_NET\\portfolio\\modify.aspx.cs",
               "RelativeToolTip": "modify.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T03:38:32.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "showmessageSender.aspx.cs",
               "DocumentMoniker": "F:\\practice_ASP_NET\\portfolio\\showmessageSender.aspx.cs",
               "RelativeDocumentMoniker": "showmessageSender.aspx.cs",
               "ToolTip": "F:\\practice_ASP_NET\\portfolio\\showmessageSender.aspx.cs",
               "RelativeToolTip": "showmessageSender.aspx.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwC8AAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T13:46:18.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "showmessageSender.aspx",
               "DocumentMoniker": "F:\\practice_ASP_NET\\portfolio\\showmessageSender.aspx",
               "RelativeDocumentMoniker": "showmessageSender.aspx",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "modify.aspx",
               "DocumentMoniker": "F:\\practice_ASP_NET\\portfolio\\modify.aspx",
               "RelativeDocumentMoniker": "modify.aspx",
@@ -111,33 +111,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "F:\\practice_ASP_NET\\portfolio\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Login.aspx.cs",
               "ToolTip": "F:\\practice_ASP_NET\\portfolio\\Login.aspx.cs",
               "RelativeToolTip": "Login.aspx.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEcAAAAGAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwA0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T05:12:18.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Login.aspx",
               "DocumentMoniker": "F:\\practice_ASP_NET\\portfolio\\Login.aspx",
               "RelativeDocumentMoniker": "Login.aspx",
               "ToolTip": "F:\\practice_ASP_NET\\portfolio\\Login.aspx",
               "RelativeToolTip": "Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-03-01T04:55:55.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "index.aspx",
               "DocumentMoniker": "F:\\practice_ASP_NET\\portfolio\\index.aspx",
               "RelativeDocumentMoniker": "index.aspx",
