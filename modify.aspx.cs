@@ -11,12 +11,24 @@ namespace portfolio
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (Session["username"] == null)
+            {
+                Response.Redirect("index.aspx");
+            }
+            else
+            {
+                Response.Write(Session["username"]);
+            }
         }
         protected void showMessage_Click(object sender, EventArgs e)
         {
             Response.Redirect("showmessageSender.aspx");
 
+        }
+
+        protected void Logout_Click(object sender, EventArgs e)
+        {
+            Session.RemoveAll();
         }
     }
 }

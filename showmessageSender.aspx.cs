@@ -23,11 +23,12 @@ namespace portfolio
                 SqlDataAdapter sda = new SqlDataAdapter("SELECT * FROM message", con);
                 DataTable dtbl = new DataTable();
                 sda.Fill(dtbl);
-                MessageGridView.DataSource= dtbl;
+                MessageGridView.DataSource = dtbl;
                 MessageGridView.DataBind();
                 con.Close();
             }
-            catch(Exception ex) {
+            catch (Exception ex)
+            {
                 Response.Write(ex.Message);
             }
         }
@@ -39,7 +40,7 @@ namespace portfolio
                 // Response.Write("<script>alert('delete id: "+e.CommandArgument+"')</script>");
                 try
                 {
-                   
+
                     SqlConnection con = new SqlConnection(strcon);
                     con.Open();
 
@@ -47,18 +48,18 @@ namespace portfolio
                     SqlCommand cmd = new SqlCommand("DELETE FROM message WHERE name=@name", con);
 
 
-                    cmd.Parameters.AddWithValue("@name",e.CommandArgument);
+                    cmd.Parameters.AddWithValue("@name", e.CommandArgument);
 
                     cmd.ExecuteNonQuery();
 
-                    
+
                     con.Close();
                     Response.Redirect("~/showmessageSender.aspx");
-                    
+
                 }
                 catch (Exception ex)
                 {
-                    
+
                     Response.Write("<script>alert('Delete hoilo na: " + ex.Message + "');</script>");
                 }
             }
