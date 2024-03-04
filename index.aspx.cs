@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Net.Mail;
@@ -15,7 +16,26 @@ namespace portfolio
         String strcon = ConfigurationManager.ConnectionStrings["dbconnection"].ConnectionString;
         protected void Page_Load(object sender, EventArgs e)
         {
+            SqlConnection con = new SqlConnection(strcon);
 
+
+            if (con.State == ConnectionState.Closed)
+            {
+                con.Open();
+            }
+
+            SqlCommand cmd = new SqlCommand("SELECT * FROM aboutedit", con);
+            SqlDataReader sdr = cmd.ExecuteReader();
+
+            if (sdr.HasRows)
+            {
+                sdr.Read();
+
+                abt.InnerText = sdr.GetValue(1).ToString().Trim();
+
+            }
+
+            con.Close();
         }
 
         protected void txtSubmit_Click(object sender, EventArgs e)
