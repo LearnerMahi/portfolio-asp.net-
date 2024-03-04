@@ -421,7 +421,7 @@ span {
 }
 
     .btn:hover {
-        background-color: #FF8656;
+        background-color: var(--main-color);
     }
 
 .lblError {

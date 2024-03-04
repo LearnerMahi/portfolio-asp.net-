@@ -11,7 +11,7 @@ namespace portfolio
 {
 
 
-    public partial class modify
+    public partial class AboutUpdate
     {
 
         /// <summary>
@@ -24,30 +24,21 @@ namespace portfolio
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// showMessage control.
+        /// updtext control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button showMessage;
+        protected global::System.Web.UI.WebControls.TextBox updtext;
 
         /// <summary>
-        /// Logout control.
+        /// updba control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Logout;
-
-        /// <summary>
-        /// gtabup control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button gtabup;
+        protected global::System.Web.UI.WebControls.Button updba;
     }
 }

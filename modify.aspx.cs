@@ -30,5 +30,10 @@ namespace portfolio
         {
             Session.RemoveAll();
         }
+
+        protected void gtabup_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("AboutUpdate.aspx");
+        }
     }
 }
